@@ -19,8 +19,11 @@ Predicting the face type of a person according to the 6 standard face types
 ### Procedure you should follow 
 
   **step 1:**Meke sure  "Face Shapes" folder & "shape_predictor_68_face_landmarks.dat" is in the file location
+  
   **step 2:**Run the "1.Creating the dataset.py" and make sure "data.pickle" & " label.pickle" files are created
+  
   **step 3:**Run the "2.Training & Save Model.py" and cheak "Model.sav" is created
+  
   **step 4:** Run the "3.face type detector.py" and find your face type
  
 ****Improvements can be made*****
