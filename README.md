@@ -4,6 +4,9 @@
 Predicting the face type of a person according to the 6 standard face types
 
 
+![sample](https://user-images.githubusercontent.com/64163110/81740840-38be1d00-94bb-11ea-8a00-75c59866a7f2.JPG)
+
+
 ****Pre-requisites****** 
 
   1. Python 3.6
